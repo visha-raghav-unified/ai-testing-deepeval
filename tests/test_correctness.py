@@ -11,7 +11,7 @@ def test_return_policy_correctness():
 
     # Step 2: Simulated chatbot response
     actual_answer = (
-        "Yes, you can return shoes within 60 days."
+        "No, you can not return shoes after 45 days."
     )
 
     # Step 3: Expected business response
